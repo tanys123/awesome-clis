@@ -20,8 +20,8 @@ CLIs are becoming the new API layer for AI agents. This list tracks tools that a
 
 ## Messaging & Communication
 
-- [Kapso CLI](https://github.com/gokapso) - Provision WhatsApp numbers for AI agents via the official Meta WhatsApp Cloud API.
-- [Sendblue CLI](https://github.com/sendblue-api) - Give AI agents iMessage phone numbers with a two-step setup.
+- [Kapso CLI](https://x.com/andresmatte/status/2036061707529834773) - Provision WhatsApp numbers for AI agents via the official Meta WhatsApp Cloud API.
+- [Sendblue CLI](https://x.com/nikita_builds/status/2037220813888176563) - Give AI agents iMessage phone numbers with a two-step setup.
 
 ## Email
 
