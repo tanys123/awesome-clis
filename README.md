@@ -11,6 +11,8 @@ CLIs are becoming the new API layer for AI agents. This list tracks tools that a
 - [Email](#email)
 - [Voice & Audio](#voice--audio)
 - [Productivity & Workspace](#productivity--workspace)
+- [CRM & Marketing](#crm--marketing)
+- [Design & Creative](#design--creative)
 - [Web Scraping & Data](#web-scraping--data)
 
 ## Finance & Payments
@@ -33,11 +35,21 @@ CLIs are becoming the new API layer for AI agents. This list tracks tools that a
 
 ## Productivity & Workspace
 
+- [Basecamp CLI](https://github.com/basecamp/basecamp-cli) - Manage projects, todos, messages, and more from your terminal or through AI agents.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) - One CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more — dynamically built from Google Discovery Service.
+
+## CRM & Marketing
+
+- [HubSpot CLI](https://github.com/HubSpot/hubspot-cli) - Connect your local environment to HubSpot to manage app assets, CRM extensions, and local development.
+
+## Design & Creative
+
+- [Canva CLI](https://www.canva.dev/docs/apps/canva-cli/) - Create and manage Canva Apps directly from the terminal.
 
 ## Web Scraping & Data
 
 - [Discrawl](https://github.com/steipete/discrawl) - Crawl and query Discord data from the command line with a SQLite backend.
+- [SerpApi CLI](https://github.com/serpapi/serpapi-cli) - Perform structured web searches via the SerpApi service, supporting multiple search engines with filtering and pagination.
 
 ## Contributing
 
